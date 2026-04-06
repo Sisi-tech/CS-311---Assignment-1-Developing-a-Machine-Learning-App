@@ -1,0 +1,6 @@
+Age,Claim_History,Loss_Ratio,Vehicle_Type,Region,Policy_Type,Premium
+25,0,0.1,Sedan,East,Comprehensive,300
+35,1,0.2,SUV,West,Comprehensive,450
+40,2,0.3,Truck,North,Third-Party,500
+50,1,0.15,Sedan,South,Comprehensive,400
+30,0,0.05,SUV,East,Third-Party,350
