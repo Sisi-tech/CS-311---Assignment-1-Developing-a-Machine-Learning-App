@@ -1,3 +1,11 @@
+### Name: 
+InsureRate Predictor
+
+
+### Purpose: 
+The app predicts future property and casualty insurance premiums for customers based on historical claims, policy types, and loss ratios. It helps insurers adjust rates proactively and allows customers to understand factors affecting their premiums.
+
+
 ### Install dependencies: 
 ```pip install pandas numpy scikit-learn matplotlib seaborn joblib```
 
